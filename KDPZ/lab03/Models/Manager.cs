@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RestaurantSchedulingApp.Models
+namespace lab03.Models
 {
     // Клас Manager успадковує Employee (Наслідування - відношення "is-a")
     public class Manager : Employee

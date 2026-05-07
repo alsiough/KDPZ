@@ -1,8 +1,8 @@
 ﻿using System;
-using RestaurantSchedulingApp.Models;
-using RestaurantSchedulingApp.Data;
+using lab03.Models;
+using lab03.Data;
 
-namespace RestaurantSchedulingApp
+namespace lab03
 {
     class Program
     {

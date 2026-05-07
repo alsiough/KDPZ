@@ -1,9 +1,9 @@
 ﻿using System;
 using System.IO;
 using System.Text;
-using RestaurantSchedulingApp.Models;
+using lab03.Models;
 
-namespace RestaurantSchedulingApp.Data
+namespace lab03.Data
 {
     // Статичний клас для роботи з файлами
     public static class FileHandler

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace RestaurantSchedulingApp.Models
+namespace lab03.Models
 {
     // Клас розкладу на тиждень
     public class Schedule

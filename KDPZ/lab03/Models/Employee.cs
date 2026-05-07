@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace RestaurantSchedulingApp.Models
+namespace lab03.Models
 {
     // Базовий клас для всіх працівників ресторану
     public class Employee

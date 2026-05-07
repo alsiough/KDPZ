@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RestaurantSchedulingApp.Models
+namespace lab03.Models
 {
     // Клас робочої зміни
     public class Shift

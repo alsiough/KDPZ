@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="KDPZ/KDPZ-lab3.csproj" />
+  <Project Path="KDPZ/KDPZ_lab3.csproj" />
+  <Project Path="RestaurantSchedulingApp.Tests/RestaurantSchedulingApp.Tests.csproj" Id="29120d43-f134-4900-b554-4c5829845ef7" />
 </Solution>
